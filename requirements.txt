@@ -1,0 +1,9 @@
+matplotlib
+networkx
+retworkx
+numpy
+scipy
+typing
+dataclasses
+stim
+pymatching
