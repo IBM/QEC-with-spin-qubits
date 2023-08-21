@@ -1,6 +1,6 @@
 # QEC-with-spin-qubits
 
-The python scripts used for our manuscript "Tailoring quantum error correction to spin qubits" will be available in this repository soon
+The python scripts used for our manuscript "Tailoring quantum error correction to spin qubits" (https://arxiv.org/abs/2306.17786).
 
 In order to calculate the threshold for a given set of error biases (e.g., readout errors are 10x more likely than gate errors), have a look at the Threshold_surfaces_demo.ipynb notebook.
 
